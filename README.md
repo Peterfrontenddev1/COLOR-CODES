@@ -31,3 +31,15 @@ SWITCHING CODES
 .three {
   background-color: rgb(127, 0, 255);
 }
+
+.one {
+  background-color: rgb(255, 0, 0);
+}
+
+.two {
+  background-color: rgb(0, 255, 255);
+}
+
+.three {
+  background-color: rgb(0, 0, 0);
+}
