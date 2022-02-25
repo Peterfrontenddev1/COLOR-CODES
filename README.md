@@ -54,3 +54,6 @@ h1 {
   width: 200px;
   height: 25px;
   margin: 10px auto;
+.green {
+  background-color: #00FF00;
+}
