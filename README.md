@@ -43,3 +43,17 @@ SWITCHING CODES
 .three {
   background-color: rgb(0, 0, 0);
 }
+h1 {
+  text-align: center;
+  background-color: rgb(0, 255, 255);
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
