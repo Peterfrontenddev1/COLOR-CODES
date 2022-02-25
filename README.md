@@ -64,3 +64,7 @@ h1 {
 .blue {
   background-color: hsl(240, 100%, 50%);
 }
+
+.red {
+  background: linear-gradient(90deg);
+}
