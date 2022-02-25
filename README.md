@@ -23,7 +23,6 @@ SWITCHING CODES
 .one {
   background-color: rgb(255, 127, 0);
 }
-
 .two {
   background-color: rgb(0, 255, 127);
 }
@@ -31,7 +30,6 @@ SWITCHING CODES
 .three {
   background-color: rgb(127, 0, 255);
 }
-
 .one {
   background-color: rgb(255, 0, 0);
 }
@@ -52,7 +50,6 @@ h1 {
   background-color: rgb(255, 255, 255);
   padding: 10px 0;
 }
-
 .marker {
   width: 200px;
   height: 25px;
