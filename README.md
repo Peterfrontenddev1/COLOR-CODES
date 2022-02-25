@@ -20,3 +20,14 @@ SWITCHING CODES
     </div>
   </body>
 </html>
+.one {
+  background-color: rgb(255, 127, 0);
+}
+
+.two {
+  background-color: rgb(0, 255, 127);
+}
+
+.three {
+  background-color: rgb(127, 0, 255);
+}
