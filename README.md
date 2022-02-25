@@ -61,3 +61,6 @@ h1 {
 .green {
   background-color: #007F00;
 }
+.blue {
+  background-color: hsl(240, 100%, 50%);
+}
